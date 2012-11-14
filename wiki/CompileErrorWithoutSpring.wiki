@@ -1,11 +1,4 @@
-#summary One-sentence summary of this page.
 #labels Featured
-Will not compile without Spring and Apache commons dbcp
-= Introduction =
+The jsp not compile without Spring and Apache commons dbcp.
 
-Add your content here.
-
-
-= Details =
-
-Unser a non-spring web app, comment the code relate to spring
+Under a non-spring web app, comment the code relate to spring and it should work now.
