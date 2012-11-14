@@ -1,4 +1,4 @@
 #labels Featured
-The jsp not compile without Spring and Apache commons dbcp.
+The jsp will not compile without Spring and Apache commons dbcp.
 
 Under a non-spring web app, comment the code relate to spring and it should work now.
