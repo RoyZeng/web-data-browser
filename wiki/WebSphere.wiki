@@ -1,0 +1,13 @@
+#IBM WebSphere Application Server 是一款行业领先的 Web 应用服务器，能够为企业应用提供安全、可靠、可扩展的高效运行平台。 它支持行业内最广泛的平台，能够为不同类型的应用提供不同的解决方案，消除了对所有应用管理一刀切的方法。
+= Introduction =
+
+通过提供高性能来合并工作负载、基础架构和管理任务，降低成本
+通过快速交付创新型应用来提高用户体验
+使用基于开放标准的编程模型，包括 Java EE 6、OSGi 应用、Web 2.0 和 Mobile、Java Batch、XML、Service Component Architecture (SCA)、Communications Enabled Applications (CEA)、Session Initiation Protocol (SIP) 和动态脚本，利用不同的开发技能 
+通过灵活的粒度控制获得较高的应用安全性
+集中管理分布在不同地理位置的应用，降低管理成本
+通过提供行业领先的高质量服务，保持交易的完整性、可靠性和可伸缩性，减少系统停机时间。
+通过改进的 Web 服务器负载平衡和故障恢复功能，减少系统停机时间。
+通过各种价格优化方案降低成本
+通过提供独一无二的向后兼容性和整合的 IBM Rational Application Developer 工具来最大化地提高开发效率。
+通过重用和扩展原有应用和打包应用来降低成本。如果愿意，将来也可以通过使用 IBM WebSphere Adapters V7.5 来进一步地加速。
