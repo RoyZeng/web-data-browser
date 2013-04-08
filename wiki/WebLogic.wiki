@@ -1,5 +1,0 @@
-#Oracle WebLogic Server 12c is the #1 application server for cloud and conventional environments. It provides the highest performance and scalability, dramatically simplifies deployment and management, and accelerates time to market with a modern, lightweight development platform.
-
-= Introduction =
-
-Build and run high-performance enterprise applications and services with Oracle WebLogic Server 12c, available in two editions to meet the needs of traditional and cloud IT environments. Leverage Oracle Traffic Director, a new Oracle Fusion Middleware component available on Oracle Exalogic, which directly integrates with Oracle WebLogic Server 12c to add high-performance and high availability traffic routing capabilities, along with dynamically configurable caching, load-balancing, and proxy support for HTTP-based applications.
